@@ -1,2 +1,1 @@
-# Precurso-Henry
-Este es un repositorio de prueba del modulo 2 Precurso Henry
+Este repositorio es un proyecto para ser clonado
